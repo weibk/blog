@@ -60,14 +60,14 @@ window.CRISP_WEBSITE_ID = "d55b1b42-cb4d-4e52-b553-68f0ef6fb320";
     d.getElementsByTagName("head")[0].appendChild(s);
 })();
 
-	window.onload = function (){
-  let hero = document.querySelector('.hero');
-  let herolink = document.querySelector('.hero-link-box');
-  let linkbox = document.querySelector('.hero-link');
-  hero.appendChild(herolink);
-  linkbox.addEventListener('click',function () {
-    document.body.scrollTop = 650;
-    document.documentElement.scrollTop = 680;
-  })
-}
+// 	window.onload = function (){
+//   let hero = document.querySelector('.hero');
+//   let herolink = document.querySelector('.hero-link-box');
+//   let linkbox = document.querySelector('.hero-link');
+//   hero.appendChild(herolink);
+//   linkbox.addEventListener('click',function () {
+//     document.body.scrollTop = 650;
+//     document.documentElement.scrollTop = 680;
+//   })
+// }
 </script>
