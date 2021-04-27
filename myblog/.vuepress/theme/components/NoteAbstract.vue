@@ -4,6 +4,7 @@
       v-for="(item,index) in currentPageData"
       :key="item.path"
       :item="item"
+      :index="index"
 			:imgUrl="imgUrl+parseInt(parseInt(index)+(parseInt(currentPage)-1)*10)+'.jpg'"
       :currentPage="currentPage"
       :currentTag="currentTag"

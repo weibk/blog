@@ -7,5 +7,9 @@ module.exports = [
       "language": "javascript",
       "type": "text/javascript",
       "src": "/js/crisp.js"
+	}],
+	["link", {
+		rel: "stylesheet",
+		href: "/css/live2d.css"
 	}]
 ]
