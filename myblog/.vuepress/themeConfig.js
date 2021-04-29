@@ -25,6 +25,18 @@ module.exports = {
 			{
 				icon: 'reco-bokeyuan',
 				link: 'https://www.cnblogs.com/yuling25/'
+			},
+			{
+				icon: 'reco-mayun',
+				link: 'https://gitee.com/wei-jiajian'
+			},
+			{
+				icon: 'reco-qq',
+				link: 'https://gitee.com/wei-jiajian'
+			},
+			{
+				icon: 'reco-wechat',
+				link: 'https://gitee.com/wei-jiajian'
 			}
 		]
 	},

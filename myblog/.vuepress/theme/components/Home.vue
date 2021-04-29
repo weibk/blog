@@ -26,6 +26,11 @@
           <NavLink class="action-button" :item="actionLink"/>
         </p>
       </ModuleTransition>
+      <div class="hero-link-box">
+        <a class="hero-link">
+          <i class="fas fa-chevron-down" aria-hidden="true"></i>
+        </a>
+      </div>
     </div>
 
     <ModuleTransition delay="0.24">
@@ -109,7 +114,7 @@ export default defineComponent({
   }
 
   .features {
-    border-top: 1px solid var(--border-color);;
+    border-top: 1px solid var(--border-color);
     padding: 1.2rem 0;
     margin-top: 2.5rem;
     display: flex;

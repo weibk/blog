@@ -15,7 +15,6 @@
       :currentPage="currentPage"
       @getCurrentPage="getCurrentPage"
     />
-		
   </div>
 </template>
 
