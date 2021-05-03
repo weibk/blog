@@ -66,7 +66,6 @@ export default defineComponent({
       maxHeight: '200px',
       margin: '6rem auto 1.5rem'
     })
-
     return { recoShowModule, actionLink, heroImageStyle }
   }
 })

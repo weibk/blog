@@ -177,7 +177,7 @@
     padding: 16px 20px;
     width: 100%;
     overflow: hidden;
-    border-radius: $ borderRadius;
+    border-radius: $borderRadius;
     box-shadow: var(--box-shadow);
     box-sizing: border-box;
     transition: all .3s;
@@ -211,7 +211,7 @@
     top: 0;
     left: 0;
     display: inline-block;
-    color: $ accentColor;
+    color: $accentColor;
   font-size: 2.4rem
   }
 
@@ -232,7 +232,7 @@
 
   .abstract-item .title .reco-lock {
     font-size: 1.28rem;
-    color: $ accentColor
+    color: $accentColor
   }
 
   .abstract-item .title:after {
@@ -242,7 +242,7 @@
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: $ accentColor;
+    background-color: $accentColor;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -250,7 +250,7 @@
   }
 
   .abstract-item .title:hover a {
-    color: $ accentColor
+    color: $accentColor
   }
 
   .abstract-item .title:hover:after {
@@ -260,11 +260,11 @@
   }
 
   .abstract-item .tags .tag-item.active {
-    color: $ accentColor
+    color: $accentColor
   }
 
   .abstract-item .tags .tag-item:hover {
-    color: $ accentColor;
+    color: $accentColor;
   }
 
   .abstract-item .abstract-wrap {
