@@ -6,14 +6,15 @@ tags:
  - Javascript
  - ES6
 categories:
- - JavaScript
+ - JavaScript 
+sticky: 1
 ---
 
 ::: tip
 ES的全称是**ECMAScript**，是ECMA国际标准化组织制定的**一项脚本语言的标准化规范**
 :::
 
-<!--more-->
+<!-- more -->
 
 ##  let
 

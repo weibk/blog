@@ -7,7 +7,10 @@ tags:
 categories:
  - JavaScript
 ---
-
+::: tip
+addEventListener() 详解
+:::
+<!-- more -->
 ##  addEventListener()方法
 
 addEventListener() 方法用于向指定元素添加事件句柄。

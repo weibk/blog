@@ -6,5 +6,8 @@ module.exports = [
 	["link", {
 		rel: "stylesheet",
 		href: "/css/live2d.css"
+	}],
+	["script", {
+		src: "/js/ecisp.js"
 	}]
 ]

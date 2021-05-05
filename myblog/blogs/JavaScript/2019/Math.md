@@ -13,7 +13,7 @@ categories:
 JavaScript 中的数学对象(Math)
 :::
 
-<!--more-->
+<!-- more -->
 
 ##  min-max的随机数
 

@@ -8822,6 +8822,11 @@
   dependencies:
     "errno" "~0.1.7"
 
+"wow.js@^1.2.2":
+  "integrity" "sha1-JHUZsKNCMZsaY+Iq6prOwanqV/U="
+  "resolved" "https://registry.nlark.com/wow.js/download/wow.js-1.2.2.tgz"
+  "version" "1.2.2"
+
 "wrap-ansi@^2.0.0":
   "integrity" "sha1-2Pw9KE3QV5T+hJc8rs3Rz4JP3YU="
   "resolved" "https://registry.nlark.com/wrap-ansi/download/wrap-ansi-2.1.0.tgz"

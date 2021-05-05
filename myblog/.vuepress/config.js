@@ -3,7 +3,7 @@ const moment = require('moment')
 module.exports = {
   base: '/blog/',
   title: '雨铃',
-  haed: require('./head'),
+  head: require('./head'),
   description: 'Do what you love',
   theme: 'reco',
   themeConfig: require('./themeConfig.js'),
