@@ -57,6 +57,34 @@ module.exports = {
         "modelName":'shizuku',
         "mobileShow": false
       }
+    ],
+    [
+      '@vuepress-reco/vuepress-plugin-bulletin-popover',
+      {
+      width: '300px', // 默认 260px
+      title: '消息提示',
+      body: [
+        {
+          type: 'title',
+          content: '欢迎关注我的微信公众号',
+          style: 'text-aligin: center;font-size: 20px'
+        },
+        {
+          type: 'image',
+          src: '/wechat.jpg'
+        },
+        {
+          type: 'title',
+          content: '有问题欢迎QQ联系我',
+          style: 'text-aligin: center;font-size: 20px'
+        },
+        {
+          type: 'title',
+          content: 'QQ:1821343013',
+          style:'font-weight: 600;font-size: 18px'
+        }
+      ]
+    }
     ]
   ]
 }
