@@ -71,7 +71,7 @@ module.exports = {
         },
         {
           type: 'image',
-          src: '/wechat.jpg'
+          src: 'https://cdn.jsdelivr.net/gh/weibk/blog_asset@4.0/images/wechat.jpg'
         },
         {
           type: 'title',
