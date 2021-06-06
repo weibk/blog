@@ -32,11 +32,7 @@ module.exports = {
       },
       {
         icon: 'reco-qq',
-        link: 'https://gitee.com/wei-jiajian'
-      },
-      {
-        icon: 'reco-wechat',
-        link: 'https://gitee.com/wei-jiajian'
+        link: 'tencent://message/?uin=1821343013&Site=yuling&Menu=yes'
       }
     ]
   },
