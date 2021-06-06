@@ -5,7 +5,7 @@
       :key="item.path"
       :item="item"
       :index="index"
-			:imgUrl="imgUrl+parseInt(parseInt(index)+(parseInt(currentPage)-1)*10)+'.jpg'"
+			:imgUrl="imgUrl+Math.floor(Math.random()*(47))+'.jpg'"
       :currentPage="currentPage"
       :currentTag="currentTag"
     />
@@ -31,7 +31,7 @@ export default defineComponent({
 			
 	data(){
 		return {
-			imgUrl: 'https://cdn.jsdelivr.net/gh/weibk/blog_asset@3.0/images/'
+			imgUrl: 'https://cdn.jsdelivr.net/gh/weibk/blog_asset@5.0/images/'
 		}
 	}	,
   setup (props, ctx) {
